@@ -2,20 +2,13 @@
     <items>
 		
 		<de7ek name="Taktik" channel="PLavtn3ZqrC8I8gbUdJgpfeChjb5D-Eyoq"></de7ek>
-		<de7ek name="Ma_Fi_Metlo" channel="PLwkUf0RYttgR63OZ6Mkd3BJ_k9lHgtTWP"></de7ek>
+		<de7ek name="Ma_Fi_Metlo" channel="PLwkUf0RYttgQqKQhcwVH_6SYI5D040mhi"></de7ek>
 		
 		
 		
 		
-		<syria name="Addounia" channel="UCLYpSZx78c-oVKI8VuiSBWg"></syria>
-		<syria name="TVarrai" channel="UCJzurqZXyefCANuI6rMl2cQ"></syria>
-		<syria name="ShaamNetwork" channel="UCHk32FBOnL8E7ehkDfGMh4Q"></syria>
-		<syria name="Massayatvofficial" channel="UCWb1u_ybrCpNvG8xGcnIx5A"></syria>
-		<syria name="Nour_AlSham" channel="UCZNIiszMD3VK_d5z_gGzNWw"></syria>
-		<syria name="Sama_Channel" channel="UCXWs5X7be3WmPxyof7EmzNw"></syria>
-		<syria name="Syria_News" channel="UCmA0uNMDy4wx9NHu1OfAw9g"></syria>
-		<syria name="Syrian_Drama_TV" channel="UCc-7m88MmdMgdNeNln_aenw"></syria>
-		<syria name="SpaceToon_TV" channel="UCuQKih3Ac3NABADQKQdeV6A"></syria>
+		<arabicchannel name="Addounia" channel="UCLYpSZx78c-oVKI8VuiSBWg"></arabicchannel>
+		
 		
 		
 		<egypt name="Nile_Tv_International" channel="UCGcjfO36K9s7bKGRUdMyvDg"></egypt>
