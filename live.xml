@@ -1,0 +1,114 @@
+<data>
+    <items>
+		<item name="Message" channel="https://sites.google.com/site/arabicchannelslogos/thanks2.mp4"></item>
+		<item name="HRM-IPTV" channel="https://sites.google.com/site/hrmtvxbmcaddon/HRM-IPTV.mp4"></item>
+		<item name="M3U_Channels" channel="https://sites.google.com/site/arabtvip/lebanon.m3u"></item>
+		<item name="MBCMaser" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser"></item>
+		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBC_1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBC2" channel="http://63.237.48.28/ios/MBC2/MBC2.m3u8"></item>
+		<item name="MBC4" channel="http://63.237.48.28/ios/MBC_4/MBC_4.m3u8"></item>
+		<item name="MBC_MAX" channel="http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8"></item>
+		<item name="MBC_ACTION" channel="http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8"></item>
+		<item name="MBC_BOLLYWOOD" channel="http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8"></item>
+		<item name="Zee_aflam" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Zee_Alwan" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=zee_alwan?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="CBC1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbc?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="CBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="CBCExtra" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBCExtra"></item>
+		<item name="Art_Aflam1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+    	<item name="Art_Aflam2" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+	    <item name="ART_Cinema" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Cima" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=cima?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Alhayat_1" channel="rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream"></item>
+	    <item name="Alhayat_Cinema" channel="rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream"></item>
+	    <item name="Moga_Comedy" channel="rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream"></item>
+		<item name="Rotana_Aflam" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rc?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Rotana_Clip" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=rcl?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="RotanaMasriya" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya"></item>
+		<item name="RotanaClassic" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic"></item>
+    	<item name="RotanaCinema" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema"></item>
+		<item name="Alrai" channel="http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8"></item>
+		<item name="Fox_Movies" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=fm?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+        <item name="Aljadeed" channel="rtsp://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p"></item>
+        <item name="MTV" channel="rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p"></item>
+        <item name="LBC" channel="rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2"></item>
+        <item name="Future" channel="rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive"></item>
+        <item name="OTV" channel="rtsp://livestreaming.itworkscdn.net/otvmobile/otvlive_2"></item>
+        <item name="Almanar" channel="rtsp://38.96.148.199:1935/liveorigin1/_definst_/livestream_720p"></item>
+        <item name="NBN" channel="rtmp://nbn.mangomolo.com/nbn/_definst_/mpegts.stream"></item>
+		<item name="Alalamiyatv" channel="rtmp://live.ditve.tv:1935/demo5/demo5.stream_360p"></item>
+		<item name="Palestine" channel="http://live.paltoday.tv:1935/paltv/live/playlist.m3u8"></item>
+		<item name="Funoon" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8"></item>
+		<item name="Agyal" channel="http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8"></item>
+		<item name="AlJazeera_Children" channel="http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8"></item>
+		<item name="Toyor_Al_Janah" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="Al_Watan_TV" channel="http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8"></item>
+		<item name="Al_Watan_TV_Plus" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8"></item>
+		<item name="Al_Watan_Ghanawi" channel="http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8"></item>
+		<item name="Arabicatv" channel="http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8"></item>
+		<item name="Cairo_Cinema" channel="rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream"></item>
+		<item name="Cairo_Drama" channel="rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream"></item>
+		<item name="Alrayan" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_,264,528,828,.m3u8"></item>
+		<item name="7stars" channel="rtmp://stream.7stars.tv/live/myStream"></item>
+		<item name="Nahar_tv" channel="rtmp://50.7.180.18/elnahar_tv/nahar_tv.stream"></item>
+		<item name="Nahar_Youm" channel="rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream"></item>
+		<item name="Nahar_Drama" channel="rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream"></item>
+		<item name="Nahar_Sport" channel="rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream"></item>
+        <item name="Almayadeen" channel="rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p"></item>
+        <item name="Aljazera" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_,264,528,828,.m3u8"></item>
+        <item name="BBC" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_ar/ls_satlink/b_,264,528,828,.m3u8"></item>
+        <item name="Alan" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_,264,528,828,.m3u8"></item>
+        <item name="Alarabiya" channel="http://livestream5.alarabiya.tv/i/live_1@141854/master.m3u8"></item>
+        <item name="Euronews" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/euronews_ar/ls_satlink/b_,264,528,828,.m3u8"></item>
+        <item name="Alalam" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_,264,528,828,.m3u8"></item>
+        <item name="Mekameleen" channel="http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8"></item>
+        <item name="Alhayat" channel="http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8"></item>
+        <item name="Syria" channel="http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8"></item>
+        <item name="Syria_Aloula" channel="http://82.137.248.21:1935/Aloula/AloulaLive3/BratuMarian.m3u8"></item>
+        <item name="Syria_Drama" channel="rtmp://82.137.248.21/Drama//DramaLive2"></item>
+        <item name="Syria_Nour" channel="http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8"></item>
+		<item name="Addounia_TV" channel="rtmp://sama-tv.net/live/samatv"></item>
+		<item name="Al_Nabaa" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8"></item>
+		<item name="Al_yawm" channel="http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8"></item>	
+		<item name="Albaghdadia" channel="http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8"></item>
+		<item name="Albaghdadia2" channel="http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8"></item>
+		<item name="Halab_Today_TV" channel="rtmp://streaming.tootvs.com/8010/8010"></item>
+	    <item name="Libya_TV" channel="http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8"></item>
+		<item name="KAS" channel="http://137.135.64.32:1935/kas/kas/HasBahCa.m3u8"></item>
+		<item name="Wissal_tv" channel="http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8"></item>
+        <item name="Samatv" channel="rtmp://sama-tv.net:1935/live/samatv"></item>
+        <item name="Alwatania" channel="rtmp://41.231.53.38:1935/thd/ playpath=first swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://streaminghd.tn/index.php/first-tv.html timeout=20"></item>
+        <item name="TNN" channel="rtmp://41.231.53.38:1935/thd/ playpath=tnn swfUrl=http://streaminghd.tn/video/player.swf?random=1182275581 live=1 pageUrl=http://streaminghd.tn/index.php/tnn.html timeout=20"></item>
+        <item name="Hannibal" channel="rtmp://41.231.53.38:1935/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html timeout=20"></item>
+        <item name="Hiwar_tunisia" channel="rtmp://41.231.53.38:1935/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html timeout=20"></item>
+        <item name="Nessma_tunisia" channel="rtmp://41.231.53.38:1935/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html timeout=20"></item>
+        <item name="Telvaza" channel="rtmp://41.231.53.38:1935/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html timeout=20"></item>
+        <item name="Aljanoubia" channel="rtmp://41.231.53.38:1935/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html timeout=20"></item>
+        <item name="Tunisna" channel="rtmp://41.231.53.38:1935/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html timeout=20"></item>
+        <item name="Alasr" channel="http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8"></item>
+		<item name="Aghani_Tv" channel="http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8"></item>
+		<item name="Medi_1_Sat" channel="http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8"></item>
+		<item name="Maannews" channel="http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8"></item>
+		<item name="Jordan" channel="rtmp://64.251.14.168/jorlive/jrtv"></item>
+		<item name="M2Morocco" channel="http://8.21.48.26:7777/M2Morocco/M2Morocco_Low.m3u8"></item>
+	    <item name="Talaqie" channel="rtmp://82.137.248.20:1935/Talaqie/TalaqieLive1"></item>
+		<item name="Alkosar" channel="rtmp://live.pgmedia.ir/live-35895787/alkosar-1024.sdp"></item>
+		<item name="Makkah" channel="http://makkah1live.itworkscdn.net/makkah1live/squran_360p/playlist.m3u8"></item>
+		<item name="Makkah2" channel="http://makkah1live.itworkscdn.net/makkah2live/sunnatv_360p/playlist.m3u8"></item>
+		<item name="Taybatv" channel="http://ukk.live.net.sa:1935/live/taybatv/playlist.m3u8"></item>
+		<item name="Iraqia" channel="http://212.7.205.5:1935/Iraqia/live/playlist.m3u8"></item>
+		<item name="Iraqiasport" channel="http://212.7.205.5:1935/sport/live/playlist.m3u8"></item>
+		<item name="Almasirah" channel="http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8"></item>
+		<item name="Dejla" channel="rtmp://stream.joinvisions.net:1935/dij/dij"></item>
+		<item name="Iqraa" channel="http://fl1.viastreaming.net/iqraatv/livestream/playlist.m3u8"></item>
+		<item name="Sumaria" channel="http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8"></item>
+		<item name="Dubaitv" channel="http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8"></item>
+		<item name="Sama_dubai" channel="rtsp://wms01.endavomedia.com:1935/dmilivesamadubai/dmilivesamadubai_3"></item>
+		<item name="Noor_dubaitv" channel="http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8"></item>
+		<item name="Africatv1" channel="http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"></item>
+		<item name="Africatv2" channel="http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"></item>
+    	<item name="Africatv3" channel="http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8"></item>
+	    <item name="Africatv4" channel="http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8"></item>
+   </items>
+</data>
