@@ -1,16 +1,16 @@
 <data>
     <items>
-		<lebanon name="MTV_LEBANON" channel="UCnkTo_wMqGtLiA4xX7roORg"></lebanon>
-		<lebanon name="MTV_LEBANON_NEWS" channel="UC9_XmAwE5szLHF76FjMylaw"></lebanon>
-		<lebanon name="AL_JADEED" channel="UC5f_fxJa5G9AR9L3J5Z2I4A"></lebanon>
-		<lebanon name="AL_JADEED_NEWS" channel="UC4JCsTLFcHGk10qpiNMh0Ww"></lebanon>
-		<lebanon name="FutureTV_Society" channel="UCBrIvQGxLdxfpeAKXy5wALA"></lebanon>
-		<lebanon name="FutureTV_News" channel="UCGaOCoe5XaJJKNEKWM1WpJQ"></lebanon>
-		<lebanon name="AlManar_Channel" channel="UCh8BdTka1DRnu4uHrEB-EaA"></lebanon>
-		<lebanon name="LBCGroup" channel="UCpE6gpKewomi17XDyPfpFjA"></lebanon>
-		<lebanon name="OTV_Lebanon" channel="UCJu-0vnWt0wFMQuLsjzwjRQ"></lebanon>
-		<lebanon name="Tele_Liban" channel="UCF00D1R3Z7aAfG8OJqE34Ng"></lebanon>
-		<lebanon name="Arabica_TV" channel="UCwhWu2mto7CALPJelOc8OoQ"></lebanon>
+		<de7ek name="MTV_de7ek" channel="UCnkTo_wMqGtLiA4xX7roORg"></de7ek>
+		<de7ek name="MTV_de7ek_NEWS" channel="UC9_XmAwE5szLHF76FjMylaw"></de7ek>
+		<de7ek name="AL_JADEED" channel="UC5f_fxJa5G9AR9L3J5Z2I4A"></de7ek>
+		<de7ek name="AL_JADEED_NEWS" channel="UC4JCsTLFcHGk10qpiNMh0Ww"></de7ek>
+		<de7ek name="FutureTV_Society" channel="UCBrIvQGxLdxfpeAKXy5wALA"></de7ek>
+		<de7ek name="FutureTV_News" channel="UCGaOCoe5XaJJKNEKWM1WpJQ"></de7ek>
+		<de7ek name="AlManar_Channel" channel="UCh8BdTka1DRnu4uHrEB-EaA"></de7ek>
+		<de7ek name="LBCGroup" channel="UCpE6gpKewomi17XDyPfpFjA"></de7ek>
+		<de7ek name="OTV_de7ek" channel="UCJu-0vnWt0wFMQuLsjzwjRQ"></de7ek>
+		<de7ek name="Tele_Liban" channel="UCF00D1R3Z7aAfG8OJqE34Ng"></de7ek>
+		<de7ek name="Arabica_TV" channel="UCwhWu2mto7CALPJelOc8OoQ"></de7ek>
 		
 		<syria name="Addounia" channel="UCLYpSZx78c-oVKI8VuiSBWg"></syria>
 		<syria name="TVarrai" channel="UCJzurqZXyefCANuI6rMl2cQ"></syria>
