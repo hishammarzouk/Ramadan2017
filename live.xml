@@ -4,7 +4,7 @@
 		<item name="HRM-IPTV" channel="https://sites.google.com/site/hrmtvxbmcaddon/HRM-IPTV.mp4"></item>
 		<item name="M3U_Channels" channel="https://sites.google.com/site/arabtvip/lebanon.m3u"></item>
 		<item name="MBCMaser" channel="rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser"></item>
-		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
+		<item name="MBCDrama" channel="rtmp://web.iptv-planet.com:1937/live playpath=Hi_mbcdrama?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="MBC_1" channel="rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1?key=070114105032083101112032048052 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php timeout=20"></item>
 		<item name="MBC2" channel="http://63.237.48.28/ios/MBC2/MBC2.m3u8"></item>
 		<item name="MBC4" channel="http://63.237.48.28/ios/MBC_4/MBC_4.m3u8"></item>
